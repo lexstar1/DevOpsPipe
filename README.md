@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Addressbook Tutorial
 ====================
 
@@ -37,8 +38,7 @@ Importing in NetBeans 8
 These instructions were tested on NetBeans 8.0.2. You can get it from https://www.netbeans.org
 
 To checkout and run the project in NetBeans, do:
-- Team -> Git -> Clone
-- Set repository URL to https://github.com/vaadin/addressbook.git
+- Team -> Git -> Clo Set repository URL to https://github.com/vaadin/addressbook.git
 - Finish
 - Right click the imported project (Vaadin Addressbook Application) and select Run
 - Select GlassFish Server 4.1 -> Remember in Current IDE Session -> OK
@@ -68,3 +68,8 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 *** End of documentation
 
 
+=======
+# DevOpsPipe
+
+pull
+>>>>>>> f3f466d83754f86fdc653469ed5f40d99d116061
